@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abhinavsingh.dev/sitemap.xml
