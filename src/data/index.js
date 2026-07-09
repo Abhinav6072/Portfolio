@@ -159,7 +159,7 @@ export const projects = [
     ],
     category: "fullstack",
     githubUrl: "https://github.com/Abhinav6072",
-    liveUrl: "#",
+    liveUrl: "https://coding-adda-three.vercel.app/",
     image: "/projects/doctor.png",
     gradient: "from-purple-500 to-pink-600",
     featured: true,
