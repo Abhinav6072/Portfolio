@@ -37,6 +37,42 @@ export const typingRoles = [
 // ==========================================
 export const projects = [
   {
+    id: "coding-adda",
+    title: "Coding Adda",
+    tagline: "Your ultimate coding companion",
+    description: "A comprehensive platform to learn, practice, and master coding concepts with an engaging community.",
+    problem: "Learning to code often feels isolating and overwhelming without a structured path and community support.",
+    solution: "Created an interactive platform that combines structured tutorials with a thriving community of learners.",
+    features: [
+      "Interactive coding environment",
+      "Structured learning paths",
+      "Community forums and discussions",
+      "Real-time code evaluation",
+      "Progress tracking and analytics"
+    ],
+    architecture: "Modern MERN stack application with real-time features using Socket.io and Redis for caching.",
+    techStack: [
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Socket.io",
+      "Tailwind CSS"
+    ],
+    role: "Full Stack Developer — architected the platform, developed core features, and ensured smooth deployment.",
+    futureImprovements: [
+      "AI-powered code review assistant",
+      "Mobile application for on-the-go learning",
+      "Gamified learning challenges"
+    ],
+    category: "fullstack",
+    githubUrl: "https://github.com/Abhinav6072",
+    liveUrl: "https://coding-adda-three.vercel.app/",
+    image: "/projects/elearning.png",
+    gradient: "from-blue-500 to-indigo-600",
+    featured: true,
+  },
+  {
     id: "smart-elearning",
     title: "Smart E-Learning Platform",
     tagline: "Next-gen education powered by modern web tech",
